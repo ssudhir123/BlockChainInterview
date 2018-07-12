@@ -3,6 +3,8 @@ Why is achieving a consensus in a distributed systems difficult?
 What are the different Consensus algorithms in BlockChain? (BFT, PBFT, PoW, PoS).
 Answer:
   https://hackernoon.com/a-hitchhikers-guide-to-consensus-algorithms-d81aae3eb0e3
+  https://blockgeeks.com/guides/blockchain-consensus/
+  
 What is your favorite Consensus algorithms?
 What is 51% attack?
 What are the key damages can a malicious node(actor) do on the blockchain 
